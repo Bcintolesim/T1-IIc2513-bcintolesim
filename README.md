@@ -24,3 +24,10 @@ https://github.com/mdn/beginner-html-site-styled/blob/gh-pages/styles/style.css
 
 https://github.com/cthomas88/HTML-and-CSS-for-beginners/blob/master/css/stylesheet.css
 
+            <a href="facebook.com"><img src="images/facebook.png" alt="Facebook icon" height="42" width="42"></a>
+            <a href="instagram.com"><img src="images/insta.jpg" alt="Instagram icon" height="42" width="42"></a>
+            <a href="twitter.com"><img src="images/twitter.jpg" alt="Twitter icon" height="42" width="42"></a>
+
+            <a href="https://www.youtube.com/c/AmigosdelaQu%C3%ADmicaMartaVitores"> <img src="images/img.jpg" alt="❤️">
+
+Tambien utilize codigo y referencias de un proyecto mio del curso ingenieria de software.

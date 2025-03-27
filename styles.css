@@ -3,17 +3,16 @@ body {
   margin: 0;
   padding: 20px;
   text-align: center;
-  border: 2px solid blue;
+  border: 2px solid red;
 }
 
 
 header, footer {
-  background-color: #333;
+  background-color: royalblue;
   color: white;
   padding: 20px;
-  border: 2px solid red;
+  border: 2px solid royalblue;
 }
-
 
 main {
   border: 2px solid blue;
@@ -23,7 +22,7 @@ h2.titulo {
   margin: 0;
   padding: 20px;
   border: 2px solid blue;
-  background-color: #f0e68c;
+  background-color: lightgray;
   color: #2c3e50;
   font-family: Georgia, serif;
 }
@@ -34,7 +33,7 @@ h2.titulo {
   width: 100%;
   font-size: 1.1em;
   border: 2px solid blue;
-  background-color: #fbeec1;
+  background-color: rgb(130, 200, 224);
 }
 .intro-parrafo p {
   color: #2f4f4f;
@@ -46,7 +45,7 @@ h2.titulo {
   gap: 20px;
   margin: 20px 0;
   border: 2px solid blue;
-  background-color: #e6f7ff;
+  background-color: #a7bfe3;
 }
 .imagenes-dos img {
   width: 300px;
@@ -63,7 +62,7 @@ h2.titulo {
   margin: 40px 0;
   flex-wrap: wrap;
   border: 2px solid blue;
-  background-color: #fff0f5;
+  background-color: #a7bfe3;
 }
 
 .parrafo-imagen p, 
@@ -78,19 +77,19 @@ h2.titulo {
   border: 2px solid blue;
 }
 .parrafo-imagen p {
-  color: darkmagenta;
+  color: purple;
 }
 
 .parrafo-final {
   margin-top: 30px;
   border: 2px solid blue;
-  background-color: #e0ffe0;
+  background-color: lightgray;
 }
 .parrafo-final p {
-  color: green;
+  color: black;
 }
 
 footer p {
-  color: lightblue;
+  color: black;
   font-weight: bold;
 }

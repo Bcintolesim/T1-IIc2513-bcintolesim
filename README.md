@@ -4,11 +4,11 @@ Para las imagenes deben estar en una carpeta llamada images.
 
 images/
 
-   -img.jpg
+        -img.jpg
 
-   -img2.jpg
+        -img2.jpg
 
-   -img3.jpg
+        -img3.jpg
 
 index.html
 

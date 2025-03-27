@@ -1,0 +1,96 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid blue;
+}
+
+
+header, footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  border: 2px solid red;
+}
+
+
+main {
+  border: 2px solid blue;
+}
+
+h2.titulo {
+  margin: 0;
+  padding: 20px;
+  border: 2px solid blue;
+  background-color: #f0e68c;
+  color: #2c3e50;
+  font-family: Georgia, serif;
+}
+
+
+.intro-parrafo {
+  margin: 20px auto;
+  width: 100%;
+  font-size: 1.1em;
+  border: 2px solid blue;
+  background-color: #fbeec1;
+}
+.intro-parrafo p {
+  color: #2f4f4f;
+}
+
+.imagenes-dos {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 20px 0;
+  border: 2px solid blue;
+  background-color: #e6f7ff;
+}
+.imagenes-dos img {
+  width: 300px;
+  height: auto;
+  border-radius: 8px;
+  border: 2px solid blue;
+}
+
+.parrafo-imagen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin: 40px 0;
+  flex-wrap: wrap;
+  border: 2px solid blue;
+  background-color: #fff0f5;
+}
+
+.parrafo-imagen p, 
+.parrafo-imagen img {
+  flex: 1 1 30%;
+  border: 2px solid blue;
+}
+.parrafo-imagen img {
+  max-height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 2px solid blue;
+}
+.parrafo-imagen p {
+  color: darkmagenta;
+}
+
+.parrafo-final {
+  margin-top: 30px;
+  border: 2px solid blue;
+  background-color: #e0ffe0;
+}
+.parrafo-final p {
+  color: green;
+}
+
+footer p {
+  color: lightblue;
+  font-weight: bold;
+}

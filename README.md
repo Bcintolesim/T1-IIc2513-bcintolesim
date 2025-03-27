@@ -1,15 +1,14 @@
 # T1-IIc2513-bcintolesim
 Para esta tarea los archivos a ejecutar son index.html, este debe estar en el mismo contenedor que styles.css.
-Para las imagenes deben estar en una carpeta llamada images.
+Para las imagenes deben estar en el mismo nivel que el archivo index.html.
 
 ```
-images/
 
-    img.jpg
+img.jpg
 
-    img2.jpg
+img2.jpg
 
-    img3.jpg
+img3.jpg
 
 index.html
 
